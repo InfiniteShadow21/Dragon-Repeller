@@ -18,9 +18,9 @@ Dynamic Combat System: Attacks can yield critical hits, cause less damage, or ev
 Easter Egg: While traversing the world, stay vigilant for a hidden easter egg that awaits discovery.
 
 This project is more than a game; it’s a journey that challenges your strategic prowess, skill, and bravery. Are you prepared to rise as the champion your nation desperately needs?
-<html align = "center">
-  ![Dragon Repeller 2](https://github.com/InfiniteShadow21/Dragon-Repeller/assets/128071351/049de573-4045-4d6b-b00d-c72ef315a1c0)
 
+![Dragon Repeller 2](https://github.com/InfiniteShadow21/Dragon-Repeller/assets/128071351/049de573-4045-4d6b-b00d-c72ef315a1c0)
+<html align = "center">
 ![image](https://github.com/InfiniteShadow21/Dragon-Repeller/assets/128071351/0101a8aa-c959-4d46-82c3-af4fe96ff3c4)
 
 ![image](https://github.com/InfiniteShadow21/Dragon-Repeller/assets/128071351/6054a670-0bdd-463c-ab5d-4c6572688641)
