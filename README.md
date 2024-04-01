@@ -23,9 +23,13 @@ This project is more than a game; it’s a journey that challenges your strategi
 
 <p align="center">
   <img src="https://github.com/InfiniteShadow21/Dragon-Repeller/assets/128071351/3a101282-4759-4bb6-93b0-a7f765d0d5db" />
+  <img src="https://github.com/InfiniteShadow21/Dragon-Repeller/assets/128071351/3a101282-4759-4bb6-93b0-a7f765d0d5db" />
+  <img src="https://github.com/InfiniteShadow21/Dragon-Repeller/assets/128071351/3a101282-4759-4bb6-93b0-a7f765d0d5db" />
+  <img src="https://github.com/InfiniteShadow21/Dragon-Repeller/assets/128071351/3a101282-4759-4bb6-93b0-a7f765d0d5db" />
+  <img src="https://github.com/InfiniteShadow21/Dragon-Repeller/assets/128071351/3a101282-4759-4bb6-93b0-a7f765d0d5db" />
 </p>
 
-![Screenshot 2024-04-01 132034](https://github.com/InfiniteShadow21/Dragon-Repeller/assets/128071351/3a101282-4759-4bb6-93b0-a7f765d0d5db)
+
 
 ![image](https://github.com/InfiniteShadow21/Dragon-Repeller/assets/128071351/6054a670-0bdd-463c-ab5d-4c6572688641)
 
